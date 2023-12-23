@@ -5,11 +5,6 @@
 - 🔭 Помогаю с вебом в ООО "ГенПартнер" 
 - 🌱 Обожаю учиться и узнавать что-то новое
 - 👯 Студент КубГАУ им. Трубилина, факультет прикладной информатики 
-- 🤔  
-- 💬 Ask me about backend service performance, database optimization, and API development 
-- 📫 How to reach me: Feel free to email me at zdivchenko@mail.ru or connect with me on telegram t.me/@dzheeeenya 
-- 😄 Pronouns: He/Him/His 
-- ⚡ Fun fact: I enjoy exploring various approaches to improving server application performance. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/zdivche)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='40'>](zdivchenko@mail.ru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/dzheeeenya)  
