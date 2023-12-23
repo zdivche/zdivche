@@ -24,14 +24,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp
 </div>
-### 💻 Пройденные курсы:
 
-| Курсы                                                           | Дата                 |
-| ----------------------------------------------------------------| :---------------:    |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022    |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022    |
-| stepik.org/"Поколение Python": курс для начинающих              |                      |
-|  и для продвинутых                                              | 01/2023 - 01/2023    |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023    |
-| оооочень много обучающих видео на ютубе                         | 09/2022 - по сей день|
 
