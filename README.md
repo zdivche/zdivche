@@ -1,7 +1,7 @@
 ### Привет👋, меня зовут Женя <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 #### веб-разработчик, в основном, бэк, хотя пробовал себя и в фронтенде. 
 #### Учусь и живу в городе Краснодар
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=BackEnd+Developer+junior)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=BackEnd+Developer)](https://git.io/typing-svg)
 
 - 🔭 вебом в ООО "ГенПартнер" 
 - 🌱 Обожаю учиться и узнавать что-то новое
